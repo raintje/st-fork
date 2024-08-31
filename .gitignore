@@ -1,0 +1,6 @@
+# Compiled objects
+*.o
+config.h
+
+# Compiled binary
+st
